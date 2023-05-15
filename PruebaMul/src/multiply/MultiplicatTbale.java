@@ -12,5 +12,6 @@ public class MultiplicatTbale {
 				System.out.println(i + " * " + j + " = " + i*j);
 			}
 		}
+		//ESTAMOS ESCRIBIENDO EN UNA NUEVA RAMA 
 	}
 }
